@@ -13,4 +13,4 @@ spec:
   lifecycle: experimental
   owner: ${{ values.orgName }}
   definition:
-    $text: https://springboot-route-${{ values.namespace }}.apps.cluster-${{ values.clusterid }}.dynamic.redhatworkshops.io/v3/api-docs
+    $text: https://springboot-route-${{ values.namespace }}.apps.cluster-${{ values.clusterid }}.dyn.redhatworkshops.io/v3/api-docs
